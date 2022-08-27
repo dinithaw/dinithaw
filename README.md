@@ -6,9 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinithaw&label=Profile%20views&color=0e75b6&style=flat" alt="dinithaw" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinithaw" alt="dinithaw" /></a> </p>
-
-
 
 - 💬 Ask me about **Programming, Software Development, Circuit Designing & etc..**
 
@@ -34,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinithaw&show_icons=true&locale=en" alt="dinithaw" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinithaw&" alt="dinithaw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinithaw&theme=vision-friendly-dark&background=000000" alt="dinithaw" /></p>
