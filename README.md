@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinithaw&theme=vision-friendly-dark&background=000000&show_icons=true&locale=en" alt="dinithaw" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinithaw&theme=vision-friendly-dark&" alt="dinithaw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinithaw&theme=vision-friendly-dark&background=000000&" alt="dinithaw" /></p>
