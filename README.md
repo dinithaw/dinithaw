@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/dinithaw/dinithaw.github.io/blob/main/greetings.gif" width="650"/>
+  <img src="https://github.com/dinithaw/dinithaw.github.io/blob/main/greetings.gif" width="650" height="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm Dinitha Lakmin Wickramasinghe</h1>
 <h3 align="center">An Embedded System Developer & Software Developer From Sri Lanka 🇱🇰</h3>
@@ -14,8 +14,8 @@
 
 - ⚡ Fun fact **I'm Always a Cool Guy, You can Ask About Anything From me!**
 
-<div align="center">
-  <img src="https://github.com/dinithaw/dinithaw.github.io/blob/main/programmer.gif" width="200" height="300"/>
+<div align="left">
+  <img src="https://github.com/dinithaw/dinithaw.github.io/blob/main/programmer.gif" width="480" height="360"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
