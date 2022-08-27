@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinithaw" alt="dinithaw" /></a> </p>
 
+<div align="right">
+  <img src="https://github.com/dinithaw/dinithaw.github.io/blob/main/programmer.gif" width="200" height="150"/>
+</div>
+
 - 💬 Ask me about **Programming, Software Development, Circuit Designing & etc..**
 
 - 📫 How to reach me **ldinitha@gmail.com**
 
 - ⚡ Fun fact **I'm Always a Cool Guy, You can Ask About Anything From me!**
-
-<div align="right">
-  <img src="https://github.com/dinithaw/dinithaw.github.io/blob/main/programmer.gif" width="200" height="150"/>
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
