@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinithaw" alt="dinithaw" /></a> </p>
 
-<div align="right">
+<img align="right">
   <img src="https://github.com/dinithaw/dinithaw.github.io/blob/main/programmer.gif" width="200" height="150"/>
-</div>
+</img>
 
 - 💬 Ask me about **Programming, Software Development, Circuit Designing & etc..**
 
