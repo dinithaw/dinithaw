@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://github.com/dinithaw/dinithaw.github.io/blob/main/greetings.gif" width="650"/>
 </div>
-<h1 align="center">Hi 👋, I'm Dinitha Lakmin Wickramasinghe</h1>
+<h1 align="center">Hi 👋, I'm Dinitha Lakmin Wickramasinghe🐧</h1>
 <h3 align="center">An Embedded System Developer & Software Developer From Sri Lanka 🇱🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinithaw&label=Profile%20views&color=0e75b6&style=flat" alt="dinithaw" /> </p>
