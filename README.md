@@ -14,6 +14,7 @@
 - ⚡ Fun fact **I'm Always a Cool Guy, You can Ask About Anything From me!**
 
 <div align="right">
+  <img src="https://raw.githubusercontent.com/MasterLWA/MasterLWA/output/github-contribution-grid-snake.svg" />
   <img src="https://github.com/dinithaw/dinithaw.github.io/blob/main/programmer.gif" width="200" height="150"/>
 </div>
 
