@@ -30,7 +30,7 @@
 
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/dinithaw/dinithaw/output/github-contribution-grid-snake.svg" width="600" height="150"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="600" height="150"/>
 </div>
 
 
