@@ -13,12 +13,12 @@
 
 - ⚡ Fun fact **I'm Always a Cool Guy, You can Ask About Anything From me!**
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/dinithaw/dinithaw/output/github-contribution-grid-snake.svg" width="600" height="150"/>
-</div>
-
-<div align="right">
-  <img src="https://github.com/dinithaw/dinithaw.github.io/blob/main/programmer.gif" width="200" height="150" />
+<div>
+  
+  <img src="https://raw.githubusercontent.com/dinithaw/dinithaw/output/github-contribution-grid-snake.svg" width="600" height="150" align="left"/>
+  
+  <img src="https://github.com/dinithaw/dinithaw.github.io/blob/main/programmer.gif" width="200" height="150" align="right"/>
+  
 </div>
 
 <h3 align="left">Connect with me:</h3>
