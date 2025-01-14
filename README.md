@@ -1,6 +1,4 @@
-# Hi there! 👋
-
-![Welcome Banner](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+![Welcome Banner](/GIFFY.gif)
 
 ## 👨‍💻 About Me
 Hello! I'm a passionate Computer Science student at the University of Plymouth with a keen interest in Web Development, Mobile App Development, Desktop App Development, and Artificial Intelligence. I enjoy creating innovative solutions and learning new technologies to stay ahead in the tech world. Additionally, I love circuit designing and electronic prototyping, exploring the intersection of hardware and software.
