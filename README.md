@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="/GIFFY.gif" alt="Welcome Banner" style="width: 100%; height: auto;" />
+</p>
 
-![Welcome Banner](/GIFFY.gif)
 
 
 ```python
