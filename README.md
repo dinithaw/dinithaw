@@ -1,7 +1,7 @@
-<div>
+
 ![Welcome Banner](/GIFFY.gif)
-</div>
-<div>
+
+
 ```python
 class dinithaw():
     
@@ -16,13 +16,13 @@ class dinithaw():
 
 if __name__ == '__main__':
     me = dinithaw()
-</div>```
-<div>
+```
+
 ## 👨‍💻 About Me
 Hello! I'm a passionate Computer Science student at the University of Plymouth with a keen interest in Web Development, Mobile App Development, Desktop App Development, and Artificial Intelligence. I enjoy creating innovative solutions and learning new technologies to stay ahead in the tech world. Additionally, I love circuit designing and electronic prototyping, exploring the intersection of hardware and software.
-</div>
 
-<div>
+
+
 ## 🛠️ Tech Stack
 
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,11 +44,11 @@ Hello! I'm a passionate Computer Science student at the University of Plymouth w
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
  ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-</div>
-<div>
+
+
 ## 🌟 Let's Connect
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinitha-w)
 
 Thanks for visiting my profile! 😊
 
-</div>
+
