@@ -68,8 +68,13 @@ Hello! I'm a passionate Computer Science student at the University of Plymouth w
  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ldinitha@gmail.com)
 
 
+<p align="center">
+  <img src="/pac.gif" alt="tysm" style="width: auto; height: auto;" />
+</p>
 
+<p align="center">
+  Thanks for visiting my profile! ☕
+</p>
 
-Thanks for visiting my profile! 😊
 
 
