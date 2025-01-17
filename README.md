@@ -11,7 +11,11 @@ class dinithaw():
     self.name = "Dinitha Wickramasinghe";
     self.username = "dinithaw";
     self.location = "Colombo, Sri Lanka";
-    self.instagram = "@dinitha.w";
+    self.socials = {
+            "Instagram": "@dinitha.w",
+            "LinkedIn": "linkedin.com/in/dinitha-w",
+            "GitHub": "github.com/dinithaw"
+  }
   
   def __str__(self):
     return self.name
