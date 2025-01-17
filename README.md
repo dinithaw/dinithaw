@@ -79,7 +79,7 @@ Hello! I'm a passionate Computer Science student at the University of Plymouth w
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! ☕
+  Stay curious, keep coding, and let your creativity take flight! ☕
 </p>
 
 
