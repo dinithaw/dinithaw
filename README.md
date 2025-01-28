@@ -1,5 +1,8 @@
+
 <p align="center">
-  <img src="/GIFFY.gif" alt="Welcome Banner" style="width: 100%; height: auto;" />
+  <a href="https://dinithaw.github.io" target="_blank">
+    <img src="/GIFFY.gif" alt="Welcome Banner" style="width: 100%; height: auto;" />
+  </a>
 </p>
 
 
