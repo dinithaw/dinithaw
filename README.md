@@ -78,7 +78,9 @@ Hello! I'm a passionate Computer Science student at the University of Plymouth w
 
 
 <p align="center">
-  <img src="/pac.gif" alt="tysm" style="width: auto; height: auto;" />
+  <a href="https://dinithaw.github.io/snake/snake2.html" target="_blank">
+    <img src="/pac.gif" alt="tysm" style="width: auto; height: auto;" />
+  </a>
 </p>
 
 <p align="center">
