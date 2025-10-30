@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://dinithaw.github.io" target="_blank">
+  <a href="https://www.dinithaw.com/" target="_blank">
     <img src="/GIFFY.gif" alt="Welcome Banner" style="width: 100%; height: auto;" />
   </a>
 </p>
@@ -30,6 +30,9 @@ if __name__ == '__main__':
 ## 👨‍💻 About Me
 Hello! I'm a passionate Computer Science student at the University of Plymouth with a keen interest in Cross-Platform Mobile App Development, FullStack Web Development, Machine Learning & Artificial Intelligence. I enjoy creating innovative solutions and learning new technologies to stay ahead in the tech world. Additionally, I love Circuit Designing and Electronic Prototyping, exploring the intersection of hardware and software.
 
+<a href="https://www.dinithaw.com" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio%20↗-ff6347?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio">
+</a>
 
 
 ## 🛠️ Tech Stack
@@ -78,7 +81,7 @@ Hello! I'm a passionate Computer Science student at the University of Plymouth w
 
 
 <p align="center">
-  <a href="https://dinithaw.github.io/snake/snake2.html" target="_blank">
+  <a href="https://www.dinithaw.com/arcade" target="_blank">
     <img src="/pac.gif" alt="tysm" style="width: auto; height: auto;" />
   </a>
 </p>
