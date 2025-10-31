@@ -30,9 +30,6 @@ if __name__ == '__main__':
 ## 👨‍💻 About Me
 Hello! I'm a passionate Computer Science student at the University of Plymouth with a keen interest in Cross-Platform Mobile App Development, FullStack Web Development, Machine Learning & Artificial Intelligence. I enjoy creating innovative solutions and learning new technologies to stay ahead in the tech world. Additionally, I love Circuit Designing and Electronic Prototyping, exploring the intersection of hardware and software.
 
-<a href="https://www.dinithaw.com" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio%20↗-F65A77?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio">
-</a>
 
 
 ## 🛠️ Tech Stack
@@ -74,10 +71,13 @@ Hello! I'm a passionate Computer Science student at the University of Plymouth w
 
 
 ## 🌟 Let's Connect
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinitha-w)
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dinitha.w)
- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dinitha.W)
- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ldinitha@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0A66C2?style=for-the-badge)](https://www.dinithaw.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinitha-w)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dinitha.w)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dinitha.W)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94770637731/?text=Hi,%20Dinitha)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dinithaw)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ldinitha@gmail.com)
 
 
 <p align="center">
